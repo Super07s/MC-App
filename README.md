@@ -1,2 +1,2 @@
 # MC-App
-app this is the code for my programming assignment
+This is a code for an app in my programming assignment
